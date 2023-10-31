@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 20px;
+    margin: 20px
 }
 .product {
     display: grid;
@@ -9,7 +9,8 @@ body {
   }
 .product{
     display: flex;
-    height: 250px;
+    height: 70%;
+    align-items:center;
     background-color: rgb(220, 144, 200);
 }
 .products, .cart {
